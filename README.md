@@ -1,4 +1,3 @@
-
  AWS Security Groups and NACL Demonstration
 
 Overview:
@@ -28,6 +27,8 @@ Getting Started
    
     Launch EC2 instances with the configured Security Groups.
     Apply NACLs to the relevant subnets and test traffic flow.
+
+   <img width="1899" alt="AWS cloud diagram (Community)(2)" src="https://github.com/user-attachments/assets/d21f2f3f-10de-4b22-9c93-a2287bb7c933">
 
 
 
